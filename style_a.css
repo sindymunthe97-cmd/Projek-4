@@ -1,0 +1,14 @@
+body {
+  background-image: url('../image/green scenery.jpg');
+  background-size: cover;
+  color: black;
+  font-family: Verdana, sans-serif;
+}
+
+
+h1 {
+  color: magenta;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
